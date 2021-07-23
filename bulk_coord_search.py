@@ -14,7 +14,7 @@ def countdown(t):
         t -= 1
     print('=======end-of-3-sec-timer=======') 
 
-PLANET_API_KEY = 'dc02410c98ef4a268529ad02c24f3abf'
+PLANET_API_KEY = '123456'
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--coords', metavar ='N', type = float, nargs ='+')
